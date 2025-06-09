@@ -31,3 +31,12 @@ BEGIN
 
     DBMS_OUTPUT.PUT_LINE(result || ' (Game by Anirudh)');
 END;
+/
+EXEC anirudh_deposit(101, 5090);
+EXEC anirudh_withdraw(102, 1000);
+EXEC anirudh_check_balance(101);
+
+EXEC anirudh_calc_grade(1);
+
+EXEC anirudh_days_between(DATE '2025-06-01', DATE '2025-06-09');
+EXEC anirudh_day_of_week(DATE '2025-06-09');

@@ -6,11 +6,11 @@ CREATE TABLE anirudh_accounts (
     acc_name VARCHAR2(100),
     balance NUMBER
 );
-
+/
 -- Insert sample Indian names
 INSERT INTO anirudh_accounts VALUES (101, 'Rahul Sharma', 10000);
 INSERT INTO anirudh_accounts VALUES (102, 'Sneha Patel', 15000);
-
+/
 -- Procedure to deposit money
 CREATE OR REPLACE PROCEDURE anirudh_deposit(acc NUMBER, amt NUMBER) IS
 BEGIN
