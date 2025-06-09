@@ -1,7 +1,7 @@
 # plsql_projects_by_anirudh
 # PL/SQL Mini Projects by Anirudh Pratap Shukla
 
-This folder contains classic beginner PL/SQL projects, all personalized and crafted by Anirudh Pratap Shukla. Indian names and context are used for familiarity.
+This folder contains classic beginner PL/SQL projects, all personalized and crafted by Anirudh Pratap Shukla. 
 
 ## Projects
 
@@ -20,4 +20,4 @@ This folder contains classic beginner PL/SQL projects, all personalized and craf
 
 ## Attribution
 
-All code and scripts are made by Anirudh Pratap Shukla, with Indian names and context for learning and demonstration.
+All code and scripts are made by Anirudh Pratap Shukla learning and demonstration.
